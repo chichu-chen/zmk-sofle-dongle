@@ -114,7 +114,7 @@
             >;
 
             sensor-bindings = <&scroll_encoder>;
-            label = "mouse";
+            display-name = "mouse";
         };
 
         ori1 {
@@ -140,7 +140,7 @@
             >;
 
             sensor-bindings = <&scroll_encoder>;
-            label = "ori2";
+            display-name = "ori2";
         };
     };
 };
